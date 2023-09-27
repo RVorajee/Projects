@@ -1,5 +1,3 @@
-/* COP 3502C Assignment 2 THis program is written by: Rayyan Vorajee */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
